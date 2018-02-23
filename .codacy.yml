@@ -25,4 +25,5 @@ exclude_paths:
   - spec/**/*
   - benchmarks/**/*
   - '*.min.js'
-  - '**/tests/**' 
+  - '**/tests/**'
+  - src/registerServiceWorker.js
